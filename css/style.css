@@ -1,0 +1,29 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: deepskyblue;
+}
+
+.quem-somos{
+    background-color: brown;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: blueviolet;
+    font: times;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
